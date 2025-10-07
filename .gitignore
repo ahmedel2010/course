@@ -1,0 +1,3 @@
+*.log
+!B.log
+node_packes/
